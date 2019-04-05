@@ -1,0 +1,7 @@
+D:\GitHub Local\DrawSpace\DrawSpace\bin\Debug\DrawSpace.exe.config
+D:\GitHub Local\DrawSpace\DrawSpace\bin\Debug\DrawSpace.exe
+D:\GitHub Local\DrawSpace\DrawSpace\bin\Debug\DrawSpace.pdb
+D:\GitHub Local\DrawSpace\DrawSpace\obj\Debug\DrawSpace.csprojAssemblyReference.cache
+D:\GitHub Local\DrawSpace\DrawSpace\obj\Debug\DrawSpace.csproj.CoreCompileInputs.cache
+D:\GitHub Local\DrawSpace\DrawSpace\obj\Debug\DrawSpace.exe
+D:\GitHub Local\DrawSpace\DrawSpace\obj\Debug\DrawSpace.pdb
